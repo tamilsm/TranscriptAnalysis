@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+.chainlit
+__pycache__
+.env
+model_config.yaml
